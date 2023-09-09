@@ -33,7 +33,7 @@ function user_profile_form( $input ) {
 			<p class="register-message" style="display:none"></p>
 
 			<div class="register clearfix">
-				<p>Hello there and welcome</p>
+				<p>Hello There and Welcome to Zoyana</p>
 			</div>
 
 		</div>
